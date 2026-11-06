@@ -1,6 +1,6 @@
 QG工作室项目迁移地址说明：
 
-- 当前：[https://github.com/Limerence-ran/Alternate_Warehouses.git](https://github.com/Limerence-ran/Alternate_Warehouses.git)
+- 当前：[https://github.com/Limerence-ran/Alternate_Warehouses.git](https://github.com/Limerence-ran/QG_Warehouse_Address.git)
 - 资料：[https://github.com/Limerence-ran/QG_Job_Profile.git](https://github.com/Limerence-ran/QG_Job_Profile.git)
 - 自研：
   - 软件升级助手：[https://github.com/Limerence-ran/Software_Upgrade_Assistant.git](https://github.com/Limerence-ran/Software_Upgrade_Assistant.git)
